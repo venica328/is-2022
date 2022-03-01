@@ -1,2 +1,2 @@
 # is-2022
-rw
+Integracia sieti 2022, toto je ukazkovy README
